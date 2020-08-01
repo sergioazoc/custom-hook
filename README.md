@@ -1,4 +1,6 @@
-# useCounter Hook
+# Customs Hooks
+
+## useCounter
 
 Ejemplo de uso:
 ```
@@ -8,7 +10,7 @@ Ejemplo de uso:
 useCounter() // recibe un valor por defecto
 
 
-# useFetch
+## useFetch
 
 Ejemplo:
 ```
@@ -18,7 +20,7 @@ Ejemplo:
 ```
 
 
-# useForm
+## useForm
 
 Ejemplo:
 
